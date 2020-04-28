@@ -4,7 +4,7 @@ for senior design
 
 ## Background
 
-This is the source code for the app to complement a sensor hardware
+This is the source code for the app to complement a sensor hardware. Please don't push to the original master branch. Either fork or create another branch! (Follow git guidelines).
 
 ## Tools used:
 
